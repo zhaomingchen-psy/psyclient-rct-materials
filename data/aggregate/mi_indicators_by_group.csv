@@ -1,0 +1,13 @@
+indicator,group,n,mean,sd
+reflection_to_question_ratio_post,feedback,17,1.727,2.113
+reflection_to_question_ratio_post,lecture_only,18,1.02,0.729
+reflection_to_question_ratio_post,no_feedback,20,0.752,0.737
+percent_open_questions_post,feedback,17,69.206,19.054
+percent_open_questions_post,lecture_only,18,56.947,15.893
+percent_open_questions_post,no_feedback,20,60.136,21.815
+reflection_to_question_ratio_pre,feedback,18,1.836,2.128
+reflection_to_question_ratio_pre,lecture_only,18,1.558,2.437
+reflection_to_question_ratio_pre,no_feedback,19,2.092,3.576
+percent_open_questions_pre,feedback,17,71.764,23.146
+percent_open_questions_pre,lecture_only,18,63.973,27.294
+percent_open_questions_pre,no_feedback,20,56.241,23.136
