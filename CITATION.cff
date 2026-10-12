@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article."
+title: "PsyCLIENT classroom RCT — analysis code, prompts, and aggregate data"
+authors:
+  - family-names: Qiu
+    given-names: Huachuan
+  - family-names: Lin
+    given-names: Zhenxiu
+  - family-names: Chen
+    given-names: Zhaoming
+  - family-names: Xie
+    given-names: Yuan
+  - family-names: Lu
+    given-names: Yu
+  - family-names: Zheng
+    given-names: Qiuyue
+  - family-names: Mao
+    given-names: Yixuan
+  - family-names: Imel
+    given-names: Zac E.
+  - family-names: Lan
+    given-names: Zhenzhong
+version: 0.1.0
+date-released: 2026-10-12

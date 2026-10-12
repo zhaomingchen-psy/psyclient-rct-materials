@@ -1,0 +1,8 @@
+# never commit raw or participant-level data
+*.sav
+data/raw/
+data/individual*/
+output/
+__pycache__/
+*.pyc
+.DS_Store
