@@ -1,0 +1,5 @@
+configuration,fluency_m,fluency_sd,emotion_m,emotion_sd,coherence_m,coherence_sd,appropriateness_m,appropriateness_sd,overall_m,overall_sd
+vanilla,4.37,1.07,4.57,1.25,4.61,1.13,4.59,1.17,4.5,1.39
++content,4.96,1.11,4.98,0.83,4.76,0.9,4.96,0.89,4.82,1.06
++behavior,5.32,0.87,5.07,1.12,5.09,1.22,5.16,1.09,5.11,1.11
+PsyCLIENT,5.69,0.75,5.8,0.83,5.38,0.95,5.56,0.91,5.64,0.79
