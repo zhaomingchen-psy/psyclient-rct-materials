@@ -24,7 +24,7 @@ for ax,(code,title),letter in zip(axes,[('HS','Helping Skills'),('SM','Session M
         ax.plot(tt,m.predict(X),color=COL[g],lw=1.0,ls=(0,(4,2)),zorder=2)
     ax.set_title(title,pad=4); ax.set_xticks(t); ax.set_xticklabels([f'T{i}' for i in t]); ax.set_xlim(0.6,6.4)
     ax.set_ylim(4,8); ax.set_yticks([4,5,6,7,8]); ax.set_xlabel('Assessment week'); panel_label(ax,letter,x=-0.16 if letter=='a' else -0.08)
-axes[0].set_ylabel('Self-efficacy (item mean, 0–9)'); axes[0].legend(loc='lower left',handlelength=1.6,borderaxespad=0.2,labelspacing=0.3)
+axes[0].set_ylabel('Self-efficacy (item mean, 1–10)'); axes[0].legend(loc='lower left',handlelength=1.6,borderaxespad=0.2,labelspacing=0.3)
 fig.subplots_adjust(left=0.075,right=0.99,top=0.88,bottom=0.2,wspace=0.12)
 fig.savefig(os.path.join(HERE,'figure4_fit.png'),dpi=400); fig.savefig(os.path.join(HERE,'figure4_fit.pdf'))
 # ---------- Figure 5 ----------
