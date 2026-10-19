@@ -6,7 +6,7 @@ The simulated-client framework (PsyCLIENT-CP profiles, conversational trajectory
 
 ## Layout
 
-- `prompts/` — the three prompt templates used by the feedback module (Appendix A of the paper).
+- `prompts/` — the three prompt templates used by the feedback module (Supplementary Material of the paper).
 - `analysis/R/` — R scripts for the Study 2 analyses: HLM trajectories, two-occasion regressions, style-confidence gap, copying analyses, lagged models.
 - `analysis/python/` — script that builds the analysis tables from the raw exports (needs the restricted raw data).
 - `figures/` — `make_figures.py` and `style.py` reproduce Figures 3-6; vector PDFs of the figures are included.
