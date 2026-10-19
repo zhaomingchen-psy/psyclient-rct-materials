@@ -1,6 +1,6 @@
-# Feedback system prompt templates (Appendix A of the manuscript)
+# Feedback system prompt templates (Supplementary Material of the manuscript)
 
-This appendix presents the three prompt templates used by the automated feedback system described in the Method section. Variables enclosed in curly braces (e.g., {dialogue_history}) were populated dynamically at runtime with session-specific content. The prompts were written in English; the post-session report prompt instructed the model to generate its output in Chinese to match the language of the training context.
+These are the three prompt templates used by the automated feedback system described in Section 2.3 of the manuscript. Variables enclosed in curly braces (e.g., {dialogue_history}) were populated dynamically at runtime with session-specific content. The prompts were written in English; the post-session report prompt instructed the model to generate its output in Chinese to match the language of the training context.
 
 
 ## Prompt 1: Strategy Selection
